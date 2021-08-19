@@ -12,7 +12,7 @@
 ![Bootsrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-![Stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+![Stats](https://github-readme-stats.vercel.app/api?username=RichardDominik&theme=blue-green)
 
 🔭 I’m currently working on [Informatika ku káve](https://informatikakukave.sk/)
 
