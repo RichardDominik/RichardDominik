@@ -12,6 +12,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-FFF?style=for-the-badge&logo=GraphQl&logoColor=D932A3)
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=RichardDominik&theme=blue-green)
