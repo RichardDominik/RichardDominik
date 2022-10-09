@@ -7,7 +7,7 @@
 ![Chakra UI](https://img.shields.io/badge/Chakra%20UI-4AC7C1?style=for-the-badge&logo=ChakraUI&logoColor=fff)
 ![Next](https://img.shields.io/badge/Next.js-324FFF?style=for-the-badge&logo=Next.js&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-FFF?style=for-the-badge&logo=GraphQl&logoColor=D932A3)
+![GraphQL](https://img.shields.io/badge/GraphQL-D932A3?style=for-the-badge&logo=GraphQl&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-143157?style=for-the-badge&logo=Docker&logoColor=#238FE0)
 
 ## Also experience in
